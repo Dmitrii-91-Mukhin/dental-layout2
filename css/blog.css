@@ -228,3 +228,45 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
   color: #222222;  
 }
 /* ------------------------------------------ */
+/* ----------our-blog------------------------ */
+.page__our-blog {
+}
+.our-blog__container {
+}
+.container {
+}
+.our-blog__contakt {
+}
+.contakt-body {
+  display: flex;
+  justify-content: space-between;
+}
+.contakt-body__img {
+  
+}
+.contakt-body__body {
+  max-width: 600px;
+}
+.contakt-body__title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 26px;
+  color: #000000;  
+  margin-bottom: 40px;
+}
+.contakt-body__subtitle1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #666666;
+  margin-bottom: 30px;
+}
+.contakt-body__subtitle2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #666666;
+}
